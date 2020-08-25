@@ -9,6 +9,28 @@
       <sourceFolder url="file://$MODULE_DIR$/4. 开放封闭原则" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5. 依赖倒转原则" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6. 装饰模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. 代理模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. 工厂方法模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. 原型模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. 模板方法模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. 迪米特法则" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12. 外观模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.建造者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. 观察者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15. 抽象工厂模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16. 状态模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17. 适配器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18.备忘录模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19. 组合模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20.迭代器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21. 单例模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22. 桥接模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23. 命令模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24. 责任链模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25. 中介者模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26. 享元模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27. 解释器模式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28. 访问者模式" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
